@@ -1,2 +1,4 @@
 Brooks Hollar, Instructor
-Mr Bean, ObserverByron
+Mr Bean, Observer
+Byron
+
